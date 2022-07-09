@@ -1,1 +1,5 @@
+hallo World
+Good Night Git
+
+The term "SCM" stands for Source code Management, a basic but essential part of any project developed in the current IT world. It is a kind of software that the developers usually use to manage their source code. It plays a vital role in the process of software development because it ensures that every member of the team stays on the top of source code changes in an ongoing project.
 
